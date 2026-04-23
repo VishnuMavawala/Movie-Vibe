@@ -16,9 +16,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "924492B32F75349200339E44"
-               BuildableName = "Movie Serial List.app"
-               BlueprintName = "Movie Serial List"
-               ReferencedContainer = "container:Movie Serial List.xcodeproj">
+               BuildableName = "Movie-Vibe.app"
+               BlueprintName = "Movie-Vibe"
+               ReferencedContainer = "container:Movie-Vibe.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -46,9 +46,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "924492B32F75349200339E44"
-            BuildableName = "Movie Serial List.app"
-            BlueprintName = "Movie Serial List"
-            ReferencedContainer = "container:Movie Serial List.xcodeproj">
+            BuildableName = "Movie-Vibe.app"
+            BlueprintName = "Movie-Vibe"
+            ReferencedContainer = "container:Movie-Vibe.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -63,9 +63,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "924492B32F75349200339E44"
-            BuildableName = "Movie Serial List.app"
-            BlueprintName = "Movie Serial List"
-            ReferencedContainer = "container:Movie Serial List.xcodeproj">
+            BuildableName = "Movie-Vibe.app"
+            BlueprintName = "Movie-Vibe"
+            ReferencedContainer = "container:Movie-Vibe.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

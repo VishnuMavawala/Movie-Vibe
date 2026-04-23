@@ -7,13 +7,13 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		924492B42F75349200339E44 /* Movie Serial List.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Movie Serial List.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		924492B42F75349200339E44 /* Movie-Vibe.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Movie-Vibe.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		924492B62F75349200339E44 /* Movie Serial List */ = {
+		924492B62F75349200339E44 /* Movie-Vibe */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "Movie Serial List";
+			path = "Movie-Vibe";
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -32,7 +32,7 @@
 		924492AB2F75349200339E44 = {
 			isa = PBXGroup;
 			children = (
-				924492B62F75349200339E44 /* Movie Serial List */,
+				924492B62F75349200339E44 /* Movie-Vibe */,
 				924492B52F75349200339E44 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -40,7 +40,7 @@
 		924492B52F75349200339E44 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				924492B42F75349200339E44 /* Movie Serial List.app */,
+				924492B42F75349200339E44 /* Movie-Vibe.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,9 +48,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		924492B32F75349200339E44 /* Movie Serial List */ = {
+		924492B32F75349200339E44 /* Movie-Vibe */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 924492BF2F75349400339E44 /* Build configuration list for PBXNativeTarget "Movie Serial List" */;
+			buildConfigurationList = 924492BF2F75349400339E44 /* Build configuration list for PBXNativeTarget "Movie-Vibe" */;
 			buildPhases = (
 				924492B02F75349200339E44 /* Sources */,
 				924492B12F75349200339E44 /* Frameworks */,
@@ -61,13 +61,13 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				924492B62F75349200339E44 /* Movie Serial List */,
+				924492B62F75349200339E44 /* Movie-Vibe */,
 			);
-			name = "Movie Serial List";
+			name = "Movie-Vibe";
 			packageProductDependencies = (
 			);
-			productName = "Movie Serial List";
-			productReference = 924492B42F75349200339E44 /* Movie Serial List.app */;
+			productName = "Movie-Vibe";
+			productReference = 924492B42F75349200339E44 /* Movie-Vibe.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -85,7 +85,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 924492AF2F75349200339E44 /* Build configuration list for PBXProject "Movie Serial List" */;
+			buildConfigurationList = 924492AF2F75349200339E44 /* Build configuration list for PBXProject "Movie-Vibe" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -99,7 +99,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				924492B32F75349200339E44 /* Movie Serial List */,
+				924492B32F75349200339E44 /* Movie-Vibe */,
 			);
 		};
 /* End PBXProject section */
@@ -253,7 +253,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "Movie-Serial-List-Info.plist";
+				INFOPLIST_FILE = "Movie-Vibe-Info.plist";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -264,7 +264,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.neosoft.Movie-Serial-List";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.neosoft.Movie-Vibe";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
@@ -285,7 +285,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "Movie-Serial-List-Info.plist";
+				INFOPLIST_FILE = "Movie-Vibe-Info.plist";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -296,7 +296,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.neosoft.Movie-Serial-List";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.neosoft.Movie-Vibe";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
@@ -311,7 +311,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		924492AF2F75349200339E44 /* Build configuration list for PBXProject "Movie Serial List" */ = {
+		924492AF2F75349200339E44 /* Build configuration list for PBXProject "Movie-Vibe" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				924492BD2F75349400339E44 /* Debug */,
@@ -320,7 +320,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		924492BF2F75349400339E44 /* Build configuration list for PBXNativeTarget "Movie Serial List" */ = {
+		924492BF2F75349400339E44 /* Build configuration list for PBXNativeTarget "Movie-Vibe" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				924492C02F75349400339E44 /* Debug */,
