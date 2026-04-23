@@ -9,9 +9,12 @@ import SwiftUI
 
 @main
 struct Movie_Serial_ListApp: App {
+    @StateObject var watchListManager = WatchListManager()
+    
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MainTabView()
+                .environmentObject(watchListManager)
         }
     }
 }
