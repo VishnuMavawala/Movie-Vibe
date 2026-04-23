@@ -1,0 +1,46 @@
+# Xcode
+#
+# gitignore contributors: remember to update Global/Xcode.gitignore, Global/VisualStudioCode.gitignore, Objective-C.gitignore and Swift.gitignore
+
+## User settings
+xcuserdata/
+
+## Scripts
+*.python
+
+## Build results
+DerivedData/
+build/
+*.extref
+
+## Playgrounds
+Timeline.xctimeline
+playground.xcworkspace
+
+## Swift Package Manager
+.build/
+
+## Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
+
+## Code Coverage
+*.framework
+*.xccoverage
+*.xcresult
+
+## Dependency managers
+Pods/
+Carthage/Checkouts/
+Carthage/Build/
+vendor/bundle/
+
+## Bundle directory
+.bundle/
+
+## Misc
+*.moved-aside
+*.xcuserstate
+**/.DS_Store
