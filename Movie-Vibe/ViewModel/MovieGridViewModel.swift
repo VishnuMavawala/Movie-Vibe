@@ -1,8 +1,8 @@
 //
 //  MovieGridViewModel.swift
-//  Movie Serial List
+//  Movie-Vibe
 //
-//  Created by Neosoft on 03/04/26.
+//  Created by Vishnu Mavawala on 03/04/26.
 //
 
 import Foundation

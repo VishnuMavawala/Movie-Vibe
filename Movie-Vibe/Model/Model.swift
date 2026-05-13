@@ -1,8 +1,8 @@
 //
 //  Model.swift
-//  Movie Serial List
+//  Movie-Vibe
 //
-//  Created by Neosoft on 30/03/26.
+//  Created by Vishnu Mavawala on 30/03/26.
 //
 
 enum MovieType: String {

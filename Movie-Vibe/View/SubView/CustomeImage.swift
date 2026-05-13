@@ -1,8 +1,8 @@
 //
 //  CustomeImage.swift
-//  Movie Serial List
+//  Movie-Vibe
 //
-//  Created by Neosoft on 26/03/26.
+//  Created by Vishnu Mavawala on 26/03/26.
 //
 
 import SwiftUI

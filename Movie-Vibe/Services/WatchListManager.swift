@@ -2,7 +2,7 @@
 //  WatchListManager.swift
 //  Movie-Vibe
 //
-//  Created by Neosoft on 31/03/26.
+//  Created by Vishnu Mavawala on 31/03/26.
 //
 
 import Foundation

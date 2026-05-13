@@ -2,7 +2,7 @@
 //  Color+Extensions.swift
 //  Movie-Vibe
 //
-//  Created by Neosoft on 30/03/26.
+//  Created by Vishnu Mavawala on 30/03/26.
 //
 
 import SwiftUI

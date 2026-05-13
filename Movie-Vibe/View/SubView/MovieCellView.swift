@@ -1,8 +1,8 @@
 //
 //  MovieCellView.swift
-//  Movie Serial List
+//  Movie-Vibe
 //
-//  Created by Neosoft on 01/04/26.
+//  Created by Vishnu Mavawala on 01/04/26.
 //
 
 import SwiftUI
